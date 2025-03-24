@@ -16,6 +16,7 @@ The repository includes articles on topics such as:
 - System Design & Architecture 🏗️  
 - And more...
 
+## 📥 How to view the articles 
 Check out **[Tech Articles](https://richardmr36.github.io/tech-articles)**
 
 ## 🔗 Original Sources  
