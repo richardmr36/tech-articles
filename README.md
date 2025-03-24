@@ -17,7 +17,7 @@ The repository includes articles on topics such as:
 - And more...
 
 ## 📥 Click below link to view the articles
-[Link Text](https://richardmr36.github.io/tech-articles)
+[Tech Articles](https://richardmr36.github.io/tech-articles)
 
 ## 🔗 Original Sources  
 Each article contains a reference or link to its original source. Please support the original creators by visiting their blogs and websites!  
