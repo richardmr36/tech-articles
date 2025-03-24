@@ -23,4 +23,4 @@ Check out **[Tech Articles](https://richardmr36.github.io/tech-articles)**
 Each article contains a reference or link to its original source. Please support the original creators by visiting their blogs and websites!  
 
 ## 🛑 Removal Requests
-1. If you are the owner of any article in this repository and would like it removed, please open an issue or contact me directly.
+If you are the owner of any article in this repository and would like it removed, please open an issue or contact me directly.
